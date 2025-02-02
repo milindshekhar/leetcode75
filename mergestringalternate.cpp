@@ -19,3 +19,7 @@ public:
         return finalWord;
     }
 };
+
+
+//TC-O(n)
+//SC-O(n)
